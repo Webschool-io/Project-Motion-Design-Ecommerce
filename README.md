@@ -17,3 +17,7 @@ Botão de COMRAR só pode ser habilitado depois de escolher o produto e quantida
 ### Animação
 
 Quando o botão mudar de estado ele não mudará apenas de cor mas também terá algum tipo de animação para chamar a atenção do usuário.
+
+## Carrinho
+
+A cada produto adicionado no carrinho ele pode tanto sair da page e ir até o carrinho ou apenas mudar o icone mostrando a quantidade de produtos e a cada adição deve ocorrer uma animação que mostre para o usuário o feedback da ação.
