@@ -1,5 +1,6 @@
 # Project-Motion-Design-Ecommerce
-Ideias de UX para ecommerce
+
+Ideias de UX para ecommerce utilizando micro animações para que elas atuem como feedback de ações e **também** para chamar a atenção do usuário para qual a póxima açao que ele deve fazer.
 
 ## Botões
 
