@@ -6,6 +6,10 @@ Ideias de UX para ecommerce utilizando micro animações para que elas atuem com
 
 O botão de CADASTRAR/ALTERAR devem sempre vir desabilitados e a cada campo preechido corretamente o botão vai mostrando o progresso do usuário como se fosse uma progress bar.
 
+## Campos
+
+Todos que são obrigatórios são mostrados com uma borda em vermelhor que só mudará para verde depois de validado seu valor, caso seja inválido o campo deverá executar uma animação que traga o foco do usuário para aquele campo.
+
 ## Botões
 
 Os botões devem ficar desabilitado por padrão e só mudam de estado após suas regras serem validadas.
