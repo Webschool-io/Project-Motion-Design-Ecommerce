@@ -2,6 +2,10 @@
 
 Ideias de UX para ecommerce utilizando micro animações para que elas atuem como feedback de ações e **também** para chamar a atenção do usuário para qual a póxima açao que ele deve fazer.
 
+## Forms
+
+O botão de CADASTRAR/ALTERAR devem sempre vir desabilitados e a cada campo preechido corretamente o botão vai mostrando o progresso do usuário como se fosse uma progress bar.
+
 ## Botões
 
 Os botões devem ficar desabilitado por padrão e só mudam de estado após suas regras serem validadas.
