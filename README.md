@@ -27,3 +27,7 @@ Quando o botão mudar de estado ele não mudará apenas de cor mas também terá
 A cada produto adicionado no carrinho ele pode tanto sair da page e ir até o carrinho ou apenas mudar o icone mostrando a quantidade de produtos e a cada adição deve ocorrer uma animação que mostre para o usuário o feedback da ação.
 
 Mostrar a listagem dos produtos quando o usuário deixar o mouse em cima do ícone para que não precise sair da página para conferir seu carrinho.
+
+## Busca
+
+A busca deve ser instantanea e filtrar os produtos via AJAX sem precisar sair daquela página.
