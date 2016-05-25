@@ -18,6 +18,8 @@ Exemplo:
 
 Botão de COMRAR só pode ser habilitado depois de escolher o produto e quantidade.
 
+O [codepen.io]() tem um ótimo exemplo disso quando ele salva seu código automaticamente, la no topo, o botão `save` vai pro lado e volta.
+
 ### Animação
 
 Quando o botão mudar de estado ele não mudará apenas de cor mas também terá algum tipo de animação para chamar a atenção do usuário.
